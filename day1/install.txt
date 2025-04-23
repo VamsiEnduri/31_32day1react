@@ -1,0 +1,10 @@
+node -v
+npm -v
+npm craete vite@latest day1
+cd day1
+npm i
+npm run dev
+
+
+folder structure
+node_modules :-- all packages
